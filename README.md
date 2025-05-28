@@ -1,7 +1,6 @@
 # 📚 Bibliographie sur l'amélioration des nuages de points 3D
 
-Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstruction et la segmentation des nuages de points 3D, avec un accent particulier sur les méthodes basées sur l'apprentissage profond.
-
+Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstruction et la segmentation des nuages de points 3D.
 ---
 
 ## 🔧 Débruitage et filtrage de nuages de points
@@ -12,26 +11,30 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
 
 - **[Adaptive and Iterative Point Cloud Denoising with Score-Based Diffusion Model](https://onlinelibrary.wiley.com/doi/10.1111/cgf.70149)**  
   *Zhaonan Wang, Manyi Li, Shiqing Xin, Changhe Tu* — Computer Graphics Forum 2025  
-  [Version sur ResearchGate](https://www.researchgate.net/publication/391002739_Adaptive_and_Iterative_Point_Cloud_Denoising_with_Score-Based_Diffusion_Model)
-
-- **[Differentiable Manifold Reconstruction for Point Cloud Denoising](https://arxiv.org/abs/2007.13551)**  
-  *Shitong Luo, Wei Hu* — ACM Multimedia 2020  
-  [Page du projet](https://luost.me/DMRDenoise/)
+  [ResearchGate](https://www.researchgate.net/publication/391002739_Adaptive_and_Iterative_Point_Cloud_Denoising_with_Score-Based_Diffusion_Model)
 
 - **[Score-Based Point Cloud Denoising](https://arxiv.org/abs/2107.10981)**  
   *Shitong Luo, Wei Hu* — ICCV 2021  
-  [Code GitHub](https://github.com/luost26/score-denoise)
+  [GitHub](https://github.com/luost26/score-denoise)
+
+- **[Differentiable Manifold Reconstruction for Point Cloud Denoising](https://arxiv.org/abs/2007.13551)**  
+  *Shitong Luo, Wei Hu* — ACM Multimedia 2020  
+  [Project page](https://luost.me/DMRDenoise/)
 
 - **[P2P-Bridge: Diffusion Bridges for 3D Point Cloud Denoising](https://arxiv.org/abs/2408.16325)**  
   *Mathias Vogel, Keisuke Tateno, Marc Pollefeys, Federico Tombari, Marie-Julie Rakotosaona, Francis Engelmann* — arXiv 2024  
-  [Page du projet](https://p2p-bridge.github.io)
+  [Site officiel](https://p2p-bridge.github.io)
 
 - **[PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds](https://arxiv.org/abs/1901.01060)**  
   *Marie-Julie Rakotosaona, Vittorio La Barbera, Paul Guerrero, Niloy J. Mitra, Maks Ovsjanikov* — Computer Graphics Forum 2020
 
 - **[EC-Net: an Edge-aware Point set Consolidation Network](https://arxiv.org/abs/1807.06010)**  
   *Lequan Yu, Xianzhi Li, Chi-Wing Fu, Daniel Cohen-Or, Pheng-Ann Heng* — ECCV 2018  
-  [Page du projet](https://yulequan.github.io/projects/ec-net.html)
+  [Project page](https://yulequan.github.io/projects/ec-net.html)
+
+- **[Three-Dimensional Point Cloud Denoising via Segmentation](https://www.sciencedirect.com/science/article/pii/S1524070322000170)**  
+  *H. Liu, X. Ma, J. Zhang, D. Xu* — Journal of Visual Communication and Image Representation, Volume 84, May 2022  
+  DOI: [10.1016/j.jvcir.2022.103475](https://doi.org/10.1016/j.jvcir.2022.103475)
 
 ---
 
@@ -39,7 +42,7 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
 
 - **[A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling](https://arxiv.org/abs/2312.02719)**  
   *Wentao Qu, Yifan Zhang, Yuxin Wang, Yifan Feng, Yue Gao* — CVPR 2024  
-  [Code GitHub](https://github.com/QWTforGithub/PUDM)
+  [GitHub](https://github.com/QWTforGithub/PUDM)
 
 - **[Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://openaccess.thecvf.com/content/CVPR2023W/PCV/html/Ran_Few-Shot_Depth_Completion_Using_Denoising_Diffusion_Probabilistic_Model_CVPRW_2023_paper.html)**  
   *Weihang Ran, Wei Yuan, Ryosuke Shibasaki* — CVPR Workshops 2023
@@ -50,22 +53,18 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
 
 - **[Multimodality Helps Few-Shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2410.22489)**  
   *Zhaochong An, Yifan Zhang, Yuxin Wang, Yifan Feng, Yue Gao* — arXiv 2024  
-  [Code GitHub](https://github.com/ZhaochongAn/Multimodality-3D-Few-Shot)
+  [GitHub](https://github.com/ZhaochongAn/Multimodality-3D-Few-Shot)
 
 ---
 
-## 🧾 Revue générale
+## 🧾 Revues générales et papiers de synthèse
 
 - **[Deep Learning for 3D Point Cloud Enhancement: A Survey](https://arxiv.org/abs/2411.00857)**  
   *Siwen Quan, Junhao Yu, Ziming Nie, Muze Wang, Sijia Feng, Pei An, Jiaqi Yang* — arXiv 2024  
   [PDF](https://arxiv.org/pdf/2411.00857)
 
----
+* **[Point Cloud Denoising Review: From Classical to Deep Learning-Based Approaches](https://doi.org/10.1016/j.gmod.2022.101140)**
+  *Lang Zhou, Guoxing Sun, Yong Li, Weiqing Li, Zhiyong Su* — Graphical Models, Volume 121, 2022, Article 101140
+  [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1524070322000170)
 
-## 🧪 Autres ressources
-
-- **[Three-Dimensional Point Cloud Denoising via Segmentation](https://www.sciencedirect.com/science/article/pii/S1524070322000170)**  
-  *Auteurs non spécifiés* — Journal of Visual Communication and Image Representation, 2022
-
----
 
