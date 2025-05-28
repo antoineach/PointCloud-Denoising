@@ -47,7 +47,7 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
 ## 🧠 Segmentation sémantique 3D et apprentissage multimodal
 
 - **[Multimodality Helps Few-Shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2410.22489)**  
-  *Zhaochong An, Yifan Zhang, Yuxin Wang, Yifan Feng, Yue Gao* — arXiv 2024  
+  *Zhaochong An, Yifan Zhang, Yuxin Wang, Yifan Feng, Yue Gao* — ICLR 2025
   [GitHub](https://github.com/ZhaochongAn/Multimodality-3D-Few-Shot)
 
 ---
