@@ -31,11 +31,6 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
 - **[EC-Net: an Edge-aware Point set Consolidation Network](https://arxiv.org/abs/1807.06010)**  
   *Lequan Yu, Xianzhi Li, Chi-Wing Fu, Daniel Cohen-Or, Pheng-Ann Heng* — ECCV 2018  
   [Project page](https://yulequan.github.io/projects/ec-net.html)
-
-- **[Three-Dimensional Point Cloud Denoising via Segmentation](https://www.sciencedirect.com/science/article/pii/S1524070322000170)**  
-  *H. Liu, X. Ma, J. Zhang, D. Xu* — Journal of Visual Communication and Image Representation, Volume 84, May 2022  
-  DOI: [10.1016/j.jvcir.2022.103475](https://doi.org/10.1016/j.jvcir.2022.103475)
-
 ---
 
 ## 🔼 Upsampling et complétion de nuages de points
