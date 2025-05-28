@@ -30,7 +30,7 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
 
 - **[EC-Net: an Edge-aware Point set Consolidation Network](https://arxiv.org/abs/1807.06010)**  
   *Lequan Yu, Xianzhi Li, Chi-Wing Fu, Daniel Cohen-Or, Pheng-Ann Heng* — ECCV 2018  
-  [Project page](https://yulequan.github.io/projects/ec-net.html)
+  [Project page](https://github.com/yulequan/EC-Net)
 ---
 
 ## 🔼 Upsampling et complétion de nuages de points
