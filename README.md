@@ -3,6 +3,15 @@
 Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstruction et la segmentation des nuages de points 3D.
 ---
 
+
+## 🧾 Caractérisation du bruit des capteurs 
+
+- **[Denoising of Point Cloud Data for Computer-Aided Design, Engineering, and Manufacturing](https://link.springer.com/article/10.1007/s00366-017-0556-4#citeas)**
+    *H. Chen, J. Shen — Engineering with Computers, Volume 34, 2018, pp. 523–541
+    Springer Link*
+    [PDF Springer](https://link.springer.com/content/pdf/10.1007/s00366-017-0556-4.pdf)
+   
+
 ## 🔧 Débruitage et filtrage de nuages de points
 
 - **[3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering](https://arxiv.org/abs/2404.05522)**  
