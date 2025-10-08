@@ -1,10 +1,11 @@
-# 📚 Bibliographie sur l'amélioration des nuages de points 3D
+# 📚 Bibliography on the improvement of 3D point clouds
 
-Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstruction et la segmentation des nuages de points 3D.
+A selection of recent articles on denoising, upsampling, reconstruction and segmentation of 3D point clouds.
+
 ---
 
 
-## 🧾 Caractérisation du bruit des capteurs 
+## 🧾 Characterization of sensor noise 
 
 - **[Denoising of Point Cloud Data for Computer-Aided Design, Engineering, and Manufacturing](https://link.springer.com/article/10.1007/s00366-017-0556-4#citeas)**
     *H. Chen, J. Shen — Engineering with Computers, Volume 34, 2018, pp. 523–541
@@ -12,7 +13,7 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
     [PDF Springer](https://link.springer.com/content/pdf/10.1007/s00366-017-0556-4.pdf)
    
 
-## 🔧 Débruitage et filtrage de nuages de points
+## 🔧 Denoising and filtering of point clouds
 
 - **[3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering](https://arxiv.org/abs/2404.05522)**  
   *Qingyuan Zhou, Weidong Yang, Ben Fei, Jingyi Xu, Rui Zhang, Keyi Liu, Yeqi Luo, Ying He* — AAAI 2025  
@@ -42,7 +43,7 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
   [Project page](https://github.com/yulequan/EC-Net)
 ---
 
-## 🔼 Upsampling et complétion de nuages de points
+## 🔼 Upsampling and point cloud completion
 
 - **[A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling](https://arxiv.org/abs/2312.02719)**  
   *Wentao Qu, Yifan Zhang, Yuxin Wang, Yifan Feng, Yue Gao* — CVPR 2024  
@@ -53,7 +54,7 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
 
 ---
 
-## 🧠 Segmentation sémantique 3D et apprentissage multimodal
+## 🧠 3D semantic segmentation and multimodal learning
 
 - **[Multimodality Helps Few-Shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2410.22489)**  
   *Zhaochong An, Yifan Zhang, Yuxin Wang, Yifan Feng, Yue Gao* — ICLR 2025
@@ -61,7 +62,7 @@ Une sélection d'articles récents sur le débruitage, l'upsampling, la reconstr
 
 ---
 
-## 🧾 Revues générales et papiers de synthèse
+## 🧾 General reviews and review papers
 
 - **[Deep Learning for 3D Point Cloud Enhancement: A Survey](https://arxiv.org/abs/2411.00857)**  
   *Siwen Quan, Junhao Yu, Ziming Nie, Muze Wang, Sijia Feng, Pei An, Jiaqi Yang* — arXiv 2024  
